@@ -39,7 +39,7 @@
 
 <a href="https://nodejs.org"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Node.js&logo=Node.js&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
 
-<a href="https://code.visualstudio.com"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Visual%20Studio%20Code&logo=Visual%20Studio%20Code&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+<a href="https://code.visualstudio.com"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=VS%20Code&logo=Visual%20Studio%20Code&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
 
 <br />
 <br />
