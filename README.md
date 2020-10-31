@@ -4,6 +4,8 @@
 <a href="https://twitter.com/matsurinoyama"><img align="left" src="https://img.shields.io/website?color=1DA1F2&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Ftwitter.com%2Fmatsurinoyama" /></a>
 <a href="hhttps://www.instagram.com/matsurinoyama"><img align="left" src="https://img.shields.io/website?color=E1306C&label=Instagram&logo=Instagram&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Fwww.instagram.com%2Fmatsurinoyama" /></a>
 
+<br />
+
 ## WIP
 
 - 🌱 I’m currently learning everything 🤣
@@ -34,6 +36,8 @@
 <a href="https://www.blender.org"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Blender&logo=Blender&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
 
 <a href="https://git-scm.com"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Git&logo=Git&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<br />
 
 <a href="https://nodejs.org"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Node.js&logo=Node.js&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
 
