@@ -1,45 +1,49 @@
 ## Hey there, I'm Reiji 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/matsurinoyama?label=Twitter&color=1DA1F2&logo=twitter&logoColor=FFFFFF&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<a href="https://matsurinoyama.com"><img align="left" src="https://img.shields.io/website?label=matsurinoyama.com&style=for-the-badge&url=https%3A%2F%2Fmatsurinoyama.com" /></a>
+<a href="https://twitter.com/matsurinoyama"><img align="left" src="https://img.shields.io/website?color=1DA1F2&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Ftwitter.com%2Fmatsurinoyama" /></a>
+<a href="hhttps://www.instagram.com/matsurinoyama"><img align="left" src="https://img.shields.io/website?color=E1306C&label=Instagram&logo=Instagram&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Fwww.instagram.com%2Fmatsurinoyama" /></a>
 
 ## WIP
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Connect with me:
+### Languages:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://en.wikipedia.org/wiki/HTML"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=HTML&logo=HTML5&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<a href="https://en.wikipedia.org/wiki/CSS"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=CSS&logo=CSS3&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=JavaScript&logo=JavaScript&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<a href="https://sass-lang.com"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=SASS&logo=Sass&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<a href="https://reactjs.org"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=React&logo=React&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<a href="https://www.gatsbyjs.com"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Gatsby&logo=Gatsby&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
 
 <br />
 
 ### Tools:
 
-<a href="https://affinity.serif.com"><img align="left" src="https://img.shields.io/website?label=Affinity%20Suite&logo=Affinity&style=for-the-badge&up_message=DL&url=https%3A%2F%2Faffinity.serif.com" /></a>
-<a href="https://www.blender.org"><img align="left" src="https://img.shields.io/website?label=Blender&logo=Blender&logoColor=FFFFFF&style=for-the-badge&up_message=DL&url=https%3A%2F%2Fwww.blender.org" /></a>
-<a href="https://microsoft.com/powershell"><img align="left" src="https://img.shields.io/website?label=PowerShell&logo=PowerShell&logoColor=FFFFFF&style=for-the-badge&up_message=DL&url=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fpowershell%2F" /></a>
-<a href="https://code.visualstudio.com"><img align="left" src="https://img.shields.io/website?label=Visual%20Studio%20Code&logo=Visual%20Studio%20Code&style=for-the-badge&up_message=DL&url=https%3A%2F%2Fcode.visualstudio.com" /></a>
+<a href="https://affinity.serif.com"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Affinity%20Suite&logo=Affinity&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<a href="https://www.blender.org"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Blender&logo=Blender&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<a href="https://git-scm.com"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Git&logo=Git&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<a href="https://nodejs.org"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Node.js&logo=Node.js&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<a href="https://microsoft.com/powershell"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=PowerShell&logo=PowerShell&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
+
+<a href="https://code.visualstudio.com"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Visual%20Studio%20Code&logo=Visual%20Studio%20Code&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
 
 <br />
 <br />
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=matsurinoyama&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsurinoyama&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[website]: https://matsurinoyama.tumblr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[Twitter Follow]: https://twitter.com/intent/follow?user_id=1274387108317106178
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=matsurinoyama&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
