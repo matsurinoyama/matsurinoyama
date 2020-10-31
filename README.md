@@ -37,8 +37,6 @@
 
 <a href="https://git-scm.com"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Git&logo=Git&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
 
-<br />
-
 <a href="https://nodejs.org"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Node.js&logo=Node.js&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
 
 <a href="https://microsoft.com/powershell"><img align="left" src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=PowerShell&logo=PowerShell&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" /></a>
