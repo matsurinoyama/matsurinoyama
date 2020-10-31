@@ -1,4 +1,4 @@
-## Hi there, I'm Reiji - aka [matsurinoyama][website] 👋
+## Hey there, I'm Reiji 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/matsurinoyama?label=Twitter&color=1DA1F2&logo=twitter&logoColor=FFFFFF&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -20,44 +20,21 @@
 
 <br />
 
-### Languages and Tools:
+### Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<a href="https://affinity.serif.com"><img align="left" src="https://img.shields.io/website?label=Affinity%20Suite&logo=Affinity&style=for-the-badge&up_message=DL&url=https%3A%2F%2Faffinity.serif.com" /></a>
+<a href="https://www.blender.org"><img align="left" src="https://img.shields.io/website?label=Blender&logo=Blender&logoColor=FFFFFF&style=for-the-badge&up_message=DL&url=https%3A%2F%2Fwww.blender.org" /></a>
+<a href="https://microsoft.com/powershell"><img align="left" src="https://img.shields.io/website?label=PowerShell&logo=PowerShell&logoColor=FFFFFF&style=for-the-badge&up_message=DL&url=https%3A%2F%2Fdocs.microsoft.com%2Fen-gb%2Fpowershell%2F" /></a>
+<a href="https://code.visualstudio.com"><img align="left" src="https://img.shields.io/website?label=Visual%20Studio%20Code&logo=Visual%20Studio%20Code&style=for-the-badge&up_message=DL&url=https%3A%2F%2Fcode.visualstudio.com" /></a>
 
 <br />
 <br />
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=matsurinoyama&show_icons=true&theme=dark)
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=matsurinoyama&show_icons=true&hide_border=true" />
-
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matsurinoyama&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://matsurinoyama.tumblr.com
 [course]: http://vsCodeHero.com
