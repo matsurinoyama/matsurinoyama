@@ -1,9 +1,6 @@
 ## Hey there, I'm Reiji 👋
 
 <p align="left">
-<a href="https://matsurinoyama.com">
-<img src="https://img.shields.io/website?label=matsurinoyama.com&style=for-the-badge&url=https%3A%2F%2Fmatsurinoyama.com" />
-</a>
 <a href="https://twitter.com/matsurinoyama">
 <img src="https://img.shields.io/website?color=1DA1F2&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Ftwitter.com%2Fmatsurinoyama" />
 </a>
