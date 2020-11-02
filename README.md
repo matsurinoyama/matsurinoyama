@@ -1,20 +1,22 @@
-## Hey there, I'm Reiji 👋
+<img src="https://github.com/matsurinoyama/matsurinoyama/blob/master/Assets/Banner.jpg" width="100%" />
+
+<br />
+
+## Hey there! I'm Reiji 👋🏽
 
 <p align="left">
 <a href="https://twitter.com/matsurinoyama">
-<img src="https://img.shields.io/website?color=1DA1F2&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Ftwitter.com%2Fmatsurinoyama" />
+<img src="https://img.shields.io/website?color=1DA1F2&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Fwww.google.com" />
 </a>
 <a href="hhttps://www.instagram.com/matsurinoyama">
-<img src="https://img.shields.io/website?color=E1306C&label=Instagram&logo=Instagram&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Fwww.instagram.com%2Fmatsurinoyama" />
+<img src="https://img.shields.io/website?color=E1306C&label=Instagram&logo=Instagram&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Fwww.google.com" />
 </a>
 </p>
 
-## WIP
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 💼 I'm the Creative Director / Lead Developer at <a href="https://github.com/dp9studio">DP9 Studio</a>
+- 👨🏽‍💻 Currently working on developing the company's official website
+- 👶🏽 Just started learning React.js / Gatsby.js
+- 🗾 Hoping to go to Japan next year
 
 ### Languages:
 
