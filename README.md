@@ -1,8 +1,4 @@
-<img src="https://github.com/matsurinoyama/matsurinoyama/blob/master/Assets/Banner.jpg" width="100%" />
-
-<br />
-
-## Hey there! I'm Reiji 👋🏽
+## Hey there! I'm Azhan 👋🏽
 
 <p align="left">
 <a href="https://twitter.com/matsurinoyama">
@@ -13,7 +9,7 @@
 </a>
 </p>
 
-- 💼 I'm the Creative Director / Lead Developer at <a href="https://github.com/dp9studio">DP9 Studio</a>
+- 💼 I'm the Creative Director at <a href="https://github.com/dp9studio">DP9 Studio</a>
 - 👨🏽‍💻 Currently working on developing the company's official website
 - 👶🏽 Just started learning React.js / Gatsby.js
 - 🗾 Hoping to go to Japan next year
