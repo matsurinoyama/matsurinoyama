@@ -9,7 +9,6 @@
 </a>
 </p>
 
-- 💼 I'm the Creative Director at <a href="https://github.com/dp9studio">DP9 Studio</a>
 - 👨🏽‍💻 Currently working on developing the company's official website
 - 👶🏽 Just started learning React.js / Gatsby.js
 - 🗾 Hoping to go to Japan next year
