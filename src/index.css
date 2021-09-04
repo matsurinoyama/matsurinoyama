@@ -1,0 +1,238 @@
+/* ==========================================================================
+   General Styling
+   ========================================================================== */
+
+* {
+  box-sizing: border-box;
+
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--mRED);
+}
+
+section {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+/* Matsurinoyama's colour palette
+   ========================================================================== */
+
+:root {
+  --mRED: #ff4040;
+  --mYELLOW: #ffdf40;
+  --mGREEN: #40ffa0;
+}
+
+/* Content layout types
+   ========================================================================== */
+
+.mBG-FULL {
+  background-color: var(--mRED);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mBG-FULL_content {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+
+  padding: 10vh 10%;
+  height: 100vh;
+}
+
+.mCONTENT_top {
+  align-items: top;
+  display: flex;
+  justify-content: center;
+}
+
+/* Navigation
+   ========================================================================== */
+
+.mNAV {
+  list-style: none;
+}
+
+.mNAV li {
+  justify-items: center;
+  padding-top: 0.5vh;
+  padding-bottom: 0.5vh;
+}
+
+.mNAV a {
+  color: white;
+}
+
+.mNAV_lang {
+  list-style: none;
+  padding-top: 5vh;
+  padding-bottom: 10vh;
+}
+
+.mNAV_lang li {
+  display: inline-block;
+  justify-items: center;
+}
+
+.mNAV_lang a {
+  color: white;
+}
+
+.mNAV_copyright {
+  width: 17.5vw;
+}
+
+/* Hyperlinks
+   ========================================================================== */
+
+li,
+a {
+  color: var(--mYELLOW);
+  font-family: "Noto Sans JP", sans-serif;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+
+li:hover,
+a:hover {
+  color: var(--mGREEN);
+  font-family: "Noto Sans JP", sans-serif;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+
+li:active,
+a:active {
+  color: var(--mGREEN);
+  font-family: "Noto Sans JP", sans-serif;
+  text-decoration: line-through;
+  transition: 0.3s ease-in-out;
+}
+
+/* Text
+   ========================================================================== */
+
+h1 {
+  color: var(--mYELLOW);
+  font-family: "Noto Serif JP", serif;
+  font-size: 17.5vh;
+  line-height: 18vh;
+  font-weight: 900;
+}
+
+h2 {
+  color: var(--mYELLOW);
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 8.75vh;
+  line-height: 9.25vh;
+  font-weight: 900;
+}
+
+h3 {
+  color: var(--mYELLOW);
+  font-family: "Noto Serif JP", serif;
+  font-size: 5vh;
+  line-height: 5.5vh;
+  font-weight: 700;
+}
+
+h4 {
+  color: var(--mYELLOW);
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 4vh;
+  line-height: 4.5vh;
+  font-weight: 700;
+}
+
+h5 {
+  color: white;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 3vh;
+  line-height: 3.5vh;
+  font-weight: 700;
+}
+
+h6 {
+  color: white;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 2vh;
+  line-height: 2.5vh;
+  font-weight: 700;
+}
+
+p {
+  color: white;
+  font-family: "Noto Sans JP", sans-serif;
+  font-size: 1.5vh;
+  line-height: 2vh;
+  font-weight: 400;
+}
+
+/* Text types
+   ========================================================================== */
+
+.title {
+  padding-bottom: 32px;
+}
+
+.subtitle {
+  padding-bottom: 16px;
+}
+
+.footnote {
+  text-align: center;
+
+  padding-top: 64px;
+
+  width: 100%;
+}
+
+/* Loading screen
+   ========================================================================== */
+
+.mLOAD_background {
+  background-color: var(--mYELLOW);
+  position: fixed;
+  z-index: 6;
+
+  top: 0;
+
+  width: 100vw;
+  height: 100vh;
+}
+
+.mLOAD_animation {
+  position: fixed;
+  transform: translate(-50%, -50%);
+  z-index: 8;
+
+  top: 50%;
+  left: 50%;
+}
+
+.mLOAD_animation img {
+  z-index: 10;
+}
+
+/* Twemoji
+   ========================================================================== */
+
+img.emoji {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+  display: inline !important;
+  vertical-align: -0.3em !important;
+
+  margin: 0 0.07em !important;
+  padding: 0 !important;
+
+  height: 1.25em !important;
+  width: 1.25em !important;
+}

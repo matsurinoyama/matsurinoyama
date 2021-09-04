@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>matsurinoyama</title>
+        <meta name="description" content="matsurinoyama's homepage">
+        <meta name="keywords" content="matsurinoyama, reiji reizan, azhan rizan,
+        portoflio, azhan rizan's works, reiji reizan's works, 3d, 3d animation,
+        3d modelling, 3d animator, 3d animator in malaysia, 3d animator in japan, 茉莉の山,
+        莉山礼司, 莉山礼司の創作, 莉山礼司の作品,　莉山礼司の制作, 莉山礼司の作画, 3dcg, 3dcg作画,
+        3dcgアニメーション">
+        <meta name="author" content="Reiji Reizan">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+        <script>
+            window.onload = function () {
+                // Parses the document body and    
+                // inserts <img> tags in place of Unicode Emojis    
+                twemoji.parse(document.body,
+                    { folder: 'svg', ext: '.svg' } // This is to specify to Twemoji to use SVGs and not PNGs
+                );
+
+            }
+
+        </script>
+        <script src="https://kit.fontawesome.com/2901699eaf.js" crossorigin="anonymous"></script>
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&display=swap"
+            rel="stylesheet">
+        <link rel="stylesheet" href="src/index.css">
+    </head>
+    <body>
+        <div class="mLOAD_background"></div>
+        <div class="mLOAD_animation">
+            <img src="assets/testload.gif" alt="Loading" height="128px">
+        </div>
+    
+        <div class="mBG-FULL">
+            <div class="mBG-FULL_content">
+                <div class="mCONTENT_top">
+                    <section>
+                        <div style="writing-mode: vertical-rl;">
+                            <h2 style="text-align: center;">matsurinoyama</h2><br>
+                            <h1 style="text-align: center;">茉莉の山</h1>
+                        </div>
+                    </section>
+                    <section>
+                        <h5>
+                            <ul class="mNAV">
+                                <li style="padding-top: 0;">
+                                    <a href="en/about.html">
+                                        About
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="en/resume.html">
+                                        Résumé
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="en/portfolio.html">
+                                        Portfolio
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="en/contact.html">
+                                        Contact
+                                    </a>
+                                </li>
+                            </ul>
+                            <ul class="mNAV_lang">
+                                <li>
+                                    <a href="">
+                                        ENG
+                                    </a>
+                                </li> / 
+                                <li>
+                                    <a href="ja/index.html">
+                                        日本語
+                                    </a>
+                                </li>
+                            </ul>
+                        </h5>
+                        <div class="mNAV_copyright">
+                            <p>© 2020 - <script>document.write(new Date().getFullYear())</script> Reiji Reizan.<br></br>
+                                </b>All code written for this website are licensed under
+                                the MIT License. Read the <a href="https://github.com/matsurinoyama/matsurinoyama/blob/master/LICENSE">license</a> for more
+                                details.
+                            </p>
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    
+        <script>
+            $(window).on("load", function () {
+                $(".mLOAD_background").fadeOut("slow");
+                $(".mLOAD_animation").fadeOut("slow");
+            });
+        </script>
+    
+    </body>
+</html>
