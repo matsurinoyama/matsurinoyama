@@ -1,4 +1,4 @@
-## Hey there! I'm Reiji 👋🏽
+## Hey there! I'm Azhan 👋🏽
 
 <p align="left">
 <a href="https://twitter.com/matsurinoyama">
@@ -9,13 +9,16 @@
 </a>
 </p>
 
-- 👨🏽‍💻 Currently working on developing my portfolio website
-- 👶🏽 Just started relearning HTML and CSS again
-- 🗾 Hoping to go to further my studies in Japan soon
+- 👨🏽‍💻 Currently participating in the February 2023 Piscine at 42 Kuala Lumpur
+- 👶🏽 Just started learning C
+- 🍣🥐 Right now a bit lost on whether to study in Japan or in France
 
 ### Languages:
 
 <p align="left">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<img src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=C&logo=C&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" />
+</a>
 <a href="https://en.wikipedia.org/wiki/HTML">
 <img src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=HTML&logo=HTML5&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" />
 </a>
@@ -34,15 +37,6 @@
 </a>
 <a href="http://autodesk.com/maya">
 <img src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Maya&logo=Autodesk&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" />
-</a>
-<a href="https://git-scm.com">
-<img src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Git&logo=Git&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" />
-</a>
-<a href="https://nodejs.org">
-<img src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Node.js&logo=Node.js&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" />
-</a>
-<a href="https://docs.microsoft.com/en-gb/powershell">
-<img src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=PowerShell&logo=PowerShell&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" />
 </a>
 <a href="https://code.visualstudio.com">
 <img src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Visual%20Studio%20Code&logo=Visual%20Studio%20Code&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" />
