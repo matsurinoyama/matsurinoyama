@@ -1,4 +1,4 @@
-## Hey there! I'm Azhan 👋🏽
+## Hey there!👋🏽
 
 <p align="left">
 <a href="https://twitter.com/matsurinoyama">
