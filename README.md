@@ -1,14 +1,5 @@
 ## Hey there!👋🏽
 
-<p align="left">
-<a href="https://twitter.com/matsurinoyama">
-<img src="https://img.shields.io/website?color=1DA1F2&label=Twitter&logo=Twitter&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Fwww.google.com" />
-</a>
-<a href="https://www.instagram.com/matsurinoyama">
-<img src="https://img.shields.io/website?color=E1306C&label=Instagram&logo=Instagram&logoColor=FFFFFF&style=for-the-badge&up_message=%40matsurinoyama&url=https%3A%2F%2Fwww.google.com" />
-</a>
-</p>
-
 - 👨🏽‍💻 Currently participating in the February 2023 Piscine at 42 Kuala Lumpur
 - 👶🏽 Just started learning C
 - 🍣🥐 Right now a bit lost on whether to study in Japan or in France
