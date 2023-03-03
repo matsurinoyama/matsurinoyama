@@ -1,7 +1,7 @@
 ## Hey there!👋🏽
 
-- 👨🏽‍💻 Currently participating in the February 2023 Piscine at 42 Kuala Lumpur
-- 👶🏽 Just started learning C
+- 👨🏽‍💻 Currently working full time as a Multimedia Designer [@dp9studio](https://github.com/dp9studio)
+- 👶🏽 Just started learning C & Python
 - 🍣🥐 Right now a bit lost on whether to study in Japan or in France
 
 ### Languages:
@@ -9,6 +9,9 @@
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
 <img src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=C&logo=C&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" />
+</a>
+<a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
+<img src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=Python&logo=Python&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" />
 </a>
 <a href="https://en.wikipedia.org/wiki/HTML">
 <img src="https://img.shields.io/website?down_color=lightgrey&down_message=%3E&label=HTML&logo=HTML5&logoColor=FFFFFF&style=for-the-badge&up_color=lightgrey&up_message=%3E&url=https%3A%2F%2Fwww.google.com" />
