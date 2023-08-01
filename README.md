@@ -1,8 +1,8 @@
 ## Hey there!👋🏽
 
-- 👨🏽‍💻 Currently working full time as a Multimedia Designer [@dp9studio](https://github.com/dp9studio)
-- 👶🏽 Just started learning C & Python
-- 🍣🥐 Right now a bit lost on whether to study in Japan or in France
+- 💼 Currently looking for work in the multimedia space
+- 🚧 Currently developing my portfolio site in Svelte
+- ✍ Planning to start my correspondence degree in design informatics in Japan from April 2024
 
 ### Languages:
 
