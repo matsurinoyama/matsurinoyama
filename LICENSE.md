@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 - 2021 Reiji Reizan
+Copyright (c) 2020 - 2024 Muhammad Azhan Bin Fadzlan Rizan (AKA: Azhan Rizan, Reiji Rizan (莉山礼司), matsurinoyama (茉莉の山))
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
