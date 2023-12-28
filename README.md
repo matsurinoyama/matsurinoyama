@@ -1,8 +1,8 @@
 ## Hey there!👋🏽
 
-- 💼 Currently looking for work in the multimedia space
+- 🛫 Currently preparing to start my studies in Japan (ETA: April 2024)
 - 🚧 Currently developing my portfolio site in Svelte
-- ✍ Planning to start my correspondence degree in design informatics in Japan from April 2024
+
 
 ### Languages:
 
