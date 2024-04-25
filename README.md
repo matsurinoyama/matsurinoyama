@@ -1,7 +1,7 @@
 ## Hey there!👋🏽
 
-- 🛫 Currently preparing to start my studies in Japan (ETA: April 2024)
-- 🚧 Currently developing my portfolio site in Svelte
+- 📚 Currently studying Media Creation at Kyoto Seika University
+- 🚧 Developing my portfolio site in Svelte as a side project
 
 
 ### Languages:
